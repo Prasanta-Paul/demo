@@ -1,0 +1,2 @@
+#WeatherFile.txt
+Weather file for keeping track of weather

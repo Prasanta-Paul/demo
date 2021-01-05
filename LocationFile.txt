@@ -1,0 +1,2 @@
+#LocationFile.txt
+This is a Location Pointer File
