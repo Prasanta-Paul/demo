@@ -1,2 +1,2 @@
 #WeatherFile.txt(master)
-Weather file for keeping track of weather
+Weather file for keeping track of weather details
