@@ -1,4 +1,4 @@
-#File Name is ReadMe.txt(updates)
+#File Name is ReadMe.txt(masterdemo)
 This is a Sample ReadMe File inside demo project.
 
 #End of ReadMe.txt
